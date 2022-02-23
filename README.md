@@ -2,6 +2,8 @@
 
 A project to be updated about news and currencies of the Crypto World. There is a lot of useful information.
 
+<img height="165px" src="https://github.com/thiagoacmonteiro/cryptocurr.git"/>
+
 ps.: This project is in portuguese because my teammates don't know English.
 
 ## Technologies and tools
