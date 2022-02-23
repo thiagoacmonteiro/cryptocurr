@@ -2,7 +2,7 @@
 
 A project to be updated about news and currencies of the Crypto World. There is a lot of useful information.
 
-<img height="165px" src="![Screenshot from 2022-02-23 10-19-15](https://user-images.githubusercontent.com/87547650/155327790-e1a922e1-8361-42e7-8a9d-c282c8ee0616.png)"/>
+<div height="165px">![Screenshot from 2022-02-23 10-19-15](https://user-images.githubusercontent.com/87547650/155327790-e1a922e1-8361-42e7-8a9d-c282c8ee0616.png)"</div>
 
 ps.: This project is in portuguese because my teammates don't know English.
 
