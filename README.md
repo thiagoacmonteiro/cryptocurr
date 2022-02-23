@@ -19,11 +19,11 @@ https://thiagoacmonteiro.github.io/crypto_curr/
 $ git clone https://github.com/thiagoacmonteiro/MyTunes.git
 
 ### Enter
-$ cd MyTunes
+$ cd crytocurr
 
-### Install dependencies:
-$ npm install
+### Open VSCode
+$ code .
 
 ### Run app:
-$ npm start
+Download live server extension on your VScode and click on GoLive
 
